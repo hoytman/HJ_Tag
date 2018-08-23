@@ -1,0 +1,36 @@
+a:4:{s:4:"time";a:2:{i:0;s:369:"
+<!-- start of [div tag] block -->
+
+        <div >
+            <h2 >
+                Time section
+            </h2>
+            <h4 >
+                On the east coast, it is currently: 
+                August 17, 2018, 8:36:48 pm
+            </h4>
+            <p >
+                there is a 50% chance that this section will refreshed
+            </p>
+        </div>
+";i:1;i:1534552608;}s:9:"cache_001";a:2:{i:0;s:243:"        <div style='width: 200px;' class="box ">
+            <h1 >
+                Hello There
+            </h1>
+            <p >
+                The current time is:
+                August 23, 2018, 4:41:36 pm
+            </p>
+        </div>
+";i:1;i:1535056896;}s:9:"cache_002";a:2:{i:0;s:510:"            <div class="section" style="display:inline-block; border:1px solid black; margin 5px; padding: 5px">
+  <h2 class="section-heading" style="color:brown;">Time Block</h2>
+  <p class="section-text" style="margin:20px;">August 23, 2018, 4:41:36 pm</p>
+</div>
+            <div class="section" style="display:inline-block; border:1px solid black; margin 5px; padding: 5px">
+  <h2 class="section-heading" style="color:brown;">Random Block</h2>
+  <p class="section-text" style="margin:20px;">857</p>
+</div>
+";i:1;i:1535056896;}s:9:"cache_003";a:2:{i:0;s:66:"        <p >
+            August 23, 2018, 4:41:36 pm
+        </p>
+";i:1;i:1535056896;}}
